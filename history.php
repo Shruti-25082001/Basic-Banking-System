@@ -75,3 +75,4 @@
                 .'<td>',$row["Amount"],'</td>'
                 .'<td>'.$row["Date & Time"].'</td>';
         }
+?>
