@@ -13,10 +13,9 @@
 {
     width:100%;
     height:100vh;
-    background-image:linear-gradient(to right, #b1faee,#56f7dc,#20d5e2,#1acdec,#0994d4,#1065ac);
-    background-image:linear-gradient(to right,#b451e2,#58a5e4,#8620b6,#1065ac,#571177,#0f5288);
-    background-image:linear-gradient(to right, #80f0dd,#63d2da,#12caeb,#0994d4,#1065ac,#156b92);
-    clip-path: polygon(0% 0%,100% 0%,100% 100%,0% 80%);
+    
+    background-image:linear-gradient(to right,  #46e6cb,#63d2da,#12caeb,#0994d4,#1065ac,#156b92);
+    clip-path: polygon(0% 0%,100% 0%,100% 100%,0% 100%);
 }
 .main_text
 {
@@ -44,7 +43,7 @@
     left:0;
     bottom: 0;
     right:0;
-    background:linear-gradient(20deg,#5E11A3 55%, #fff 0%);
+    background:linear-gradient(#fff, #f07809 99%);
     z-index: -1;
 }
 .formbutton button{
